@@ -1,9 +1,0 @@
-{
-  "ProductId": "456",
-  "ProductName": "Shoes",
-  "Category": "Snikkers",
-  "PricePerUnit": 399,
-  "CustomerId": "C001",
-  "CustomerName": "Max Boe",
-  "TimeOfPurchase": "2025-08-11T12:34:56Z"
-}
