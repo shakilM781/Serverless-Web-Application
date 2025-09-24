@@ -1,0 +1,10 @@
+{
+  "ProductId": "456",
+  "ProductName": "Headphone",
+  "Category": "Electronices",
+  "PricePerUnit": 199,
+  "CustomerId": "C001",
+  "CustomerName": "Max Kim",
+  "TimeOfPurchase": "2025-08-11T12:34:56Z"
+}
+

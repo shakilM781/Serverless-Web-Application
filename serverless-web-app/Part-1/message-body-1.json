@@ -1,0 +1,9 @@
+{
+  "ProductId": "123",
+  "ProductName": "Laptop",
+  "Category": "Electronics",
+  "PricePerUnit": 999,
+  "CustomerId": "C001",
+  "CustomerName": "John Doe",
+  "TimeOfPurchase": "2025-08-11T12:34:56Z"
+}
