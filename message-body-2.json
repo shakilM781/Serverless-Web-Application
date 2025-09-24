@@ -1,9 +1,0 @@
-{
-  "ProductId": "456",
-  "ProductName": "Laptop",
-  "Category": "Electronices",
-  "PricePerUnit": 199,
-  "CustomerId": "C001",
-  "CustomerName": "Max Doe",
-  "TimeOfPurchase": "2025-08-11T12:34:56Z"
-}
